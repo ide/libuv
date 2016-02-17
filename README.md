@@ -88,7 +88,7 @@ Documentation can be browsed online [here](http://docs.libuv.org).
 ## Build Instructions
 
 For GCC there are two build methods: via autotools or via [GYP][].
-GYP is a meta-build system which can generate MSVS, Makefile, and XCode
+GYP is a meta-build system which can generate MSVS, Makefile, and Xcode
 backends. It is best used for integration into other projects.
 
 To build with autotools:
@@ -170,7 +170,7 @@ Studio license.
 
 Linux using the GCC toolchain.
 
-OS X using the GCC or XCode toolchain.
+OS X using the GCC or Xcode toolchain.
 
 Solaris 121 and later using GCC toolchain.
 
